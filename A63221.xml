@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Tryals of several notorious malefactors together with the other most remarkable proceedings at the Quarter-Sessions of goale delivery holden at the sessions house in the Old-Bailey ... which began on Munday October 17, 1681 ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63221</idno>
+            <idno type="STC">Wing T2258</idno>
+            <idno type="STC">ESTC R27543</idno>
+            <idno type="EEBO-CITATION">09933446</idno>
+            <idno type="OCLC">ocm 09933446</idno>
+            <idno type="VID">44373</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63221)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44373)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1369:14, 2158:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Tryals of several notorious malefactors together with the other most remarkable proceedings at the Quarter-Sessions of goale delivery holden at the sessions house in the Old-Bailey ... which began on Munday October 17, 1681 ...</title>
+                  <author>England and Wales. Court of Oyer and Terminer and Gaol Delivery (London and Middlesex).</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Langley Curtiss,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Item at 1369:14 incorrectly identified as T2258.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Trials --  England --  London.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:44373:1" rendition="simple:additions"/>
+            <head>THE TRYALS Of ſeveral Notorious MALEFACTORS: TOGETHER With the other moſt Remarkable PROCEEDINGS AT THE Quarter-Seſſions OF GOALE-DELIVERY, Holden at the Seſſions-Houſe in the <hi>Old-Bailey,</hi> for the City of LONDON and County of MIDDLESEX; Which began on MUNDAY, <hi>October</hi> 17. 1681. and ended on Wedneſday the Nineteenth of the ſame inſtant.</head>
+            <p>
+               <hi>OCtober</hi> 17. This day the Seſſions began at the Seſſions-houſe in the <hi>Old-baily,</hi> holden there for the City of <hi>London,</hi> County of <hi>Middle<g ref="char:EOLhyphen"/>ſex,</hi> and Goale-Delivery of <hi>Newgate,</hi> where the moſt remarkable proceedings were theſe.</p>
+            <p>After the Court had ſat about an hour, there being the two Lord Chief Juſti<g ref="char:EOLhyphen"/>ces, my Lord Chief Baron, and ſeven other Judges preſent; the Right Honoura<g ref="char:EOLhyphen"/>ble the Earl of <hi>Shaftesbury, William</hi> Lord <hi>Howard,</hi> Baron of <hi>Eſcreck,</hi> Mr. <hi>John Wilmore,</hi> Mr. <hi>Edward Whittaker,</hi> Mr. <hi>John Rouſe,</hi> Priſoners in the <hi>Tower</hi> of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> upon Commitments of High-Treaſon, and of <hi>Samuel Wilſon</hi> Priſoner in the <hi>Gate-houſe,</hi> upon the like Commitment, were tendred to the Court, and by the order of my Lord Chief Juſtice <hi>Pemberton</hi> publickly read, <hi>&amp;c.</hi> all of them tending to one and the ſame purport; ſhewing that the aforeſaid Petitioners ha<g ref="char:EOLhyphen"/>ving been Committed for the heinous Crime of High Treaſon againſt his Maje<g ref="char:EOLhyphen"/>ſty, as by the Warrants of their Commitments appears, and have been continued Priſoners without any manner of proſecution, notwithſtanding ſome of them having twice Petitioned that Honourable Court to be brought thither by <hi>Habeas Corpus,</hi> to be Tryed or Bailed, therefore they again humbly beſought their Lord<g ref="char:EOLhyphen"/>ſhips, that according to the Tenor of the Act, made and provided for the ſecu<g ref="char:EOLhyphen"/>ring the <hi>Liberty of the Subject,</hi> they might then be brought by <hi>Habeas Corpus</hi> to receive the benefit of the ſaid Act, according to the intent and mean<g ref="char:EOLhyphen"/>ing thereof. As to the Petitions of the Priſoners in the <hi>Tower,</hi> my Lord Chief Juſtice was pleaſed to return for anſwer, <hi>That it had been, and was the Opinion of all the Judges, That the</hi> Tower <hi>was a Priſon not within the Juriſdiction of that
+<pb n="2" facs="tcp:44373:2"/>Court, and therefore, as he had formerly told them, ſo he did again declare, That it was not in their power to relieve them, but that they muſt the firſt week in the Term apply themſelves to the Court of</hi> Kings-Bench; <hi>and if no proſecution was made, they might there receive the benefit of the Act for ſecuring the <hi>Liberty of the Sub<g ref="char:EOLhyphen"/>ject.</hi>
+               </hi> As for the latter, <hi>viz.</hi> Mr. <hi>Wilſon,</hi> his Lordſhip ſaid, <hi>They ſate only by a Commiſſion of Goale-delivery; and he not being in the Goale of</hi> Newgate, <hi>the Court had not to do with him.</hi>
+            </p>
+            <p>Then the Grand-Jury for the City of <hi>London</hi> appearing, Mr. <hi>Jones</hi> and Mr. <hi>North,</hi> Counſels for the King, made objections againſt the returning of the Pan<g ref="char:EOLhyphen"/>nel: firſt, for that one and the ſame men were returned upon a Precept of <hi>Oyer</hi> and <hi>Terminer</hi> and Goale-delivery; but the Opinion of the Court being, that ſuch Returns were uſual, they prayed that they might be called over before they were Sworn, for as much as they had been informed, that ſome of them had been Returned at the nomination of perſons that were not the Sheriffs ſworn Mini<g ref="char:EOLhyphen"/>ſters, which was contrary to the Statute of 3 <hi>Hen.</hi> 8. And farther, that they had been informed, they were not obſervers of the Kings Laws, in as much as they frequented Conventicles, and reſort not to their reſpective Pariſh-Churches, and therefore prayed the Pannel might be reformed. To which Objection Mr. Sheriff <hi>Pilkinton</hi> anſwered, <hi>That he knew them to be all worthy Gentlemen, and men of unſpotted Reputations, and that he had returned them at the nomination of no perſon, but upon his own certain knowledge of their being ſubſtantial Citizens.</hi> Then at the requeſt of Mr. Sollicitor General, they being demanded whether they reſorted to Church, my Lord Mayor was pleaſed to anſwer, <hi>That he was well ſatisfyed in ſeveral of them that they were good Churchmen;</hi> ſo that there was only two amongſt them that ſeemed to ſcruple to give a poſitive anſwer to that demand, <hi>viz.</hi> Mr. <hi>Criſp</hi> and Mr. <hi>Loggan;</hi> whereupon (after a long debate, and the reading of the Statute of 3 <hi>Hen.</hi> 8.) twice or thrice over, the Sheriffs gave their conſents to the racing out their Names, and inſerting two o<g ref="char:EOLhyphen"/>thers.</p>
+            <p>
+               <hi>John Pack</hi> was Tryed for ſtealing a Gelding, valued at five pound, from <hi>Wil<g ref="char:EOLhyphen"/>liam Pack</hi> his Maſter, living near <hi>Rocheſter</hi> in the County of <hi>Kent;</hi> but for as much as the Horſe being brought up to <hi>London,</hi> and found in <hi>Water-lane,</hi> where he had diſpoſed of him, the Felony was laid in <hi>London.</hi> He being askt what he could ſay for himſelf, only alleadged, that his Maſter lent him the Horſe: but having Robbed him of ſeveral things of value at the ſame time, the Jury found him guilty of the Felony.</p>
+            <p>
+               <hi>John Fulnum</hi> was likewiſe Tryed for the Murthering of <hi>Sarah Richardſon,</hi> on the twenty ſeventh of <hi>September</hi> laſt, the manner thus: he coming up <hi>Sea-coal-lane,</hi> in the Pariſh of St. <hi>Sepulchres,</hi> with a Dray, in which he had two Horſes, who upon a ſuddain ſtarting from the mid-way, ran the Dray up againſt the wall, whenas the party deceaſed, who was a Girl of about four or five years of age, thinking to ſecure herſelf behind a great ſtone that ſtood up at a Maſons door, the wheel drove it down upon her and cruſhed her to death: but the Wit<g ref="char:EOLhyphen"/>neſſes ſpeaking very favourably on the Priſoners ſide, how he uſed his utmoſt en<g ref="char:EOLhyphen"/>deavours to ſave the Child, and that he expreſſed abundance of ſorrow upon the ſight of that unlucky accident, he was acquitted of the Felony, but the Court thought fit to bind him to his good Behaviour, as likewiſe the Maſter of the Dray, to appear at the Seſſions of Peace to be holden at <hi>Guild-hall</hi> next Fri<g ref="char:EOLhyphen"/>day, and ordered the Mother of the deceaſed to proſecute the Maſon, for that he being Indicted, had brought a <hi>Certiorari</hi> to remove.</p>
+            <p>
+               <hi>Franciſco Ferdinando,</hi> a Dutchman, was Tryed for entring a Houſe in the Pa<g ref="char:EOLhyphen"/>riſh of St. <hi>Mary Wolnooth,</hi> breaking open a Cheſt, and taking from thence ſeve<g ref="char:EOLhyphen"/>ral parcels of Linnen; but the woman of the houſe coming up before he could convey himſelf away, he was apprehended. Upon his Tryal he alleadged he could not ſpeak Engliſh; whereupon an Interpreter was ordered him, and a Jury of half Forreigners and half Engliſh were Impannelled, who after a full hearing of the Evidence againſt him, brought him in guilty of the Felony.</p>
+            <pb n="3" facs="tcp:44373:2"/>
+            <p>
+               <hi>John King</hi> and <hi>John Winel</hi> were Tryed for feloniouſly Murthering of <hi>Ro<g ref="char:EOLhyphen"/>bert Reeks,</hi> a young man of the Queens Guards, near the <hi>May-pole</hi> in the <hi>Strand;</hi> the manner of the Fact, as it was Sworn to by the Evidence, was as followeth. The deceaſed and the Priſoners meeting in a Coffee-houſe, happened into diſ<g ref="char:EOLhyphen"/>courſe about divers affairs; whereupon a conteſt ariſing between them, they fell to quarrelling, but by the perſwaſions of ſome perſons preſent, thoſe feuds were ſeemingly laid aſide, and they departed as good friends; but by the way they again falling at variance, the Priſoners drew their Swords, upon pretence that the deceaſed juſtled them, and ſtruck the latter with his Cane, which he perceiving, drew likewiſe, upon which they purſued him into a Shop, (where he endeavoured to ſave himſelf) and there after ſeveral Paſſes run him in under the Right Pap four Inches, as likewiſe into the Back, of which wounds he inſtantly dyed. The Chirurgeon that ſearched the Wounds, declaring upon Oath, that the Wounds were given by two ſeveral Swords: and they after the Murther com<g ref="char:EOLhyphen"/>mitted betaking themſelves to flight, the Jury found them both guilty of wil<g ref="char:EOLhyphen"/>ful Murther.</p>
+            <p>
+               <hi>John Rouſe</hi> being removed by <hi>Habeas Corpus</hi> from the <hi>Tower</hi> of <hi>London,</hi> to the County-Goale of <hi>Newgate,</hi> a Bill of Indictment for High-Treaſon was prefer<g ref="char:EOLhyphen"/>ed againſt him, the ſubſtance of which was, <hi>That he on the Eighteenth of</hi> March <hi>laſt, and at ſundry other times, had ſpoke divers Treaſonable Words, tending to the deſtruction of his Majeſty, and the Subverſion of the Government.</hi> The Evidence that ſwore to the Bill, were <hi>Bryan Haynes, John Wyat, Edward Turbervile, Ed<g ref="char:EOLhyphen"/>ward Ives, John Macknamarra, Bernard Denis, Thomas Corkine, Elizabeth Haynes,</hi> and <hi>John Smith;</hi> many of which Depoſed, That <hi>Rouſe</hi> ſhould ſay, <hi>That al<g ref="char:EOLhyphen"/>though the Seſſions of Parliament at that time to be holden at</hi> Oxford <hi>would be but ſhort, yet the ſeveral Prorogations and Diſſolutions would avail nothing; and that they the people of</hi> England <hi>had yet another way to effect their deſigns; which was by force of Arms to compel his Majeſty to condeſcend to their requeſts;</hi> with ma<g ref="char:EOLhyphen"/>ny other Treaſonable Words, which we think not fit here to inſert. After all the Witneſſes had been publickly ſworn in Court, the Grand-Jury withdrew: but the Court not allowing them to examine the Witneſſes in private, they re<g ref="char:EOLhyphen"/>turned, and after a long debate of the Priviledges and uſual Cuſtoms of Grand-Juries, they conſented to hear the Witneſſes over again in open Court, and to ask them ſuch Queſtions as they ſhould think convenient. Whereupon, the Wit<g ref="char:EOLhyphen"/>neſſes were called one by one, and after a long and tedious Examination, the Jurors withdrew to debate the Evidence; and having held a private conſultati<g ref="char:EOLhyphen"/>on for the ſpace of three hours, they came into Court, and anſwering every man to his Name, returned the Bill <hi>IGNORAM<g ref="char:V">Ʋ</g>S;</hi> upon which, being de<g ref="char:EOLhyphen"/>manded whether they did not believe the Witneſſes, or that they thought the words expreſſed in the Indictment, and others that had been ſworn to, were not Treaſonable; the Court declaring, That if they ſcrupled the latter, they would reſolve their doubts; but their anſwer was, <hi>That they were ſatisfied in their CONSCIENCES of what they had done;</hi> and farther added, <hi>That they could not believe what the Witneſſes had Sworn.</hi>
+            </p>
+            <p>
+               <hi>Thomas Baly</hi> was Tryed upon an Indictment of High-Treaſon, for Clipping and Filing the currant Coyn of this Kingdom, <hi>viz.</hi> Forty <hi>Elizabeth</hi> ſhillings, Forty of King <hi>James</hi>'s ſhillings, and Forty of King <hi>Charles</hi> the Firſt his half-Crowns. The Evidence againſt him ſwore, That when they apprehended him, they found Clipping ſhears and other Implements about him; and that he had at ſeveral times put Monies to Goldſmiths in <hi>Lumbard-ſtreet,</hi> the which he called in at ſhort warnings, receiving broad Money for his Clipped, having put out in other mens names about ſix hundred pounds, but for which he allowed them two ſhillings in the pound; but he pleading that the Clipping Inſtruments were de<g ref="char:EOLhyphen"/>livered to him by one <hi>Hix,</hi> and that he was only truſted with the Money, the which for fear of an Attachment, he was obliged to put out in ſtrange names, he was brought in Not guilty.</p>
+            <pb n="4" facs="tcp:44373:3" rendition="simple:additions"/>
+            <p>
+               <hi>Elizabeth Warner</hi> was Tryed for Robbing <hi>Thomas Fopling</hi> of St. <hi>Pauls Shad<g ref="char:EOLhyphen"/>well,</hi> on the Twenty fourth of <hi>September</hi> laſt, of Twenty five ſhillings in Money, to which ſhe pleaded Not guilty; but having confeſſed it before the Juſtice of Peace, and her Confeſſion teſtified againſt her in Court, ſhe was found guilty, and received Sentance.</p>
+            <p>
+               <hi>George Paget</hi> was Tryed for ſtealing a Silver Cup in St. <hi>Clements Danes,</hi> of which being found guilty, was ordered to be Whipped.</p>
+            <p>
+               <hi>James Beech,</hi> and <hi>William Pomfret,</hi> had an Indictment preferred againſt them for ſtealing a Tankard, valued at five pounds, from <hi>Thomas Price,</hi> living in the Pariſh of St. <hi>Clements Danes;</hi> the circumſtances of which, as they appeared up<g ref="char:EOLhyphen"/>on Evidence, were, That the Priſoners coming into the Proſecutors houſe to drink, ſtayed the drinking of five Tankards, and then calling for another, the Maid of the Houſe brought it them, but they alleadged, ſhe took away the Tan<g ref="char:EOLhyphen"/>kard, and returned it not again; ſo that a conteſt ariſing, the Proſecutor char<g ref="char:EOLhyphen"/>ged them with a Conſtable, and carried them before a Magiſtrate, who bound them over; but it appearing by the Priſoners Witneſſes, that <hi>Price</hi> offered to compound with them, and to take half Money, and their Bonds for the reſidue; and they appearing by the teſtimonies of their Neighbours, to be honeſt labori<g ref="char:EOLhyphen"/>ous and induſtrious men, were acquitted by the Jury.</p>
+            <p>The Grand-Jury for <hi>London</hi> preſented ſeveral noted Recuſants, living in the City and Liberties thereof, and received the Commendations of the Court for ſo doing; declaring, that it had been a great defect in former Juries, who had been altogether ſlack in returning them, which was the occaſion, that within this great City, few or none had been Convicted ſince the beginning of the Plot; to which Mr. Sheriff <hi>Pilkinton</hi> anſwered, That their Lordſhips needed not doubt the diligence of this Jury in finding Bills againſt Recuſants, in order to their being Convicted.</p>
+            <p>The Counteſs of <hi>Portland,</hi> and ſeveral others that had been formerly Indicted of Recuſancy, and had joyned Iſſue thereupon, being called, and not appearing, were put upon the Jury of Life and Death for the County of <hi>Middleſex,</hi> who Convicted them according to the Statute laſt made and provided.</p>
+            <p>
+               <hi>Margaret Haines,</hi> a woman about ſeventy years of age, was Indicted for having two Husbands; her Plea was, That her former Husband had been abſent eigh<g ref="char:EOLhyphen"/>teen years, and that the latter having ſpent all ſhe had, Indicted her to take away her life, thereby to make way for another; ſo that there being no proſecution, the Court took pitty on her, and directed the Jury to Acquit her.</p>
+            <p>
+               <hi>Mary Marſhal</hi> was tryed for ſtealing a Curral, with a Silver Chain, valued at twenty Shillings; which being proved againſt her, ſhe was Convicted of the Felony; but not being above twelve years of age, though an old Offender, ha<g ref="char:EOLhyphen"/>ving been in <hi>Newgate</hi> before, for the like Robberies, ſhe received Sentence with the reſt; but notwithſtanding, was reprieved after Judgment, for Tranſporta<g ref="char:EOLhyphen"/>tion.</p>
+            <p>
+               <hi>Margery Marſh,</hi> who had been formerly Condemned for Clipping, and <hi>Arra<g ref="char:EOLhyphen"/>bella Pickering,</hi> were Tryed for Miſpriſion of Treaſon, for putting away falſe Coin, knowing of which, they were both Convicted.</p>
+            <p>There were at this Seſſions ſeven perſons Burnt in the hand, ſix Condemned to die, three men and three women, <hi>viz. John King, John Winel, John Pack, Ruth Carter, Mary Marſhal, and Elizabeth Warner.</hi> Four to be Whiped, and one to be Tranſported.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Langley Curtiſs.</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
